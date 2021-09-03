@@ -53,6 +53,3 @@ if (car.speed() > 2 * SPEED_LIMIT)
 总之，将标准命名约定内在化，并将其作为第二性征来使用。排版习惯是直接的，而且在很大程度上是明确的；语法惯例更加复杂和松散。引用《The JavaLanguage Specification》[JLS, 6.1] 中的话说，「如果长期以来的传统用法要求不遵循这些约定，就不应该盲目地遵循这些约定。」，应使用常识判断。
 
 ---
-**[Back to contents of the chapter（返回章节目录）](/Chapter-9/Chapter-9-Introduction.md)**
-- **Previous Item（上一条目）：[Item 67: Optimize judiciously（明智地进行优化）](/Chapter-9/Chapter-9-Item-67-Optimize-judiciously.md)**
-- **Next Item（下一条目）：[Chapter 10 Introduction（章节介绍）](/Chapter-10/Chapter-10-Introduction.md)**
