@@ -80,6 +80,3 @@ public final class ThreadLocal<T> {
 总之，当存在或可以编写更好的数据类型时，应避免将字符串用来表示对象。如果使用不当，字符串比其他类型更麻烦、灵活性更差、速度更慢、更容易出错。字符串经常被误用的类型包括基本类型、枚举和聚合类型。
 
 ---
-**[Back to contents of the chapter（返回章节目录）](/Chapter-9/Chapter-9-Introduction.md)**
-- **Previous Item（上一条目）：[Item 61: Prefer primitive types to boxed primitives（基本数据类型优于包装类）](/Chapter-9/Chapter-9-Item-61-Prefer-primitive-types-to-boxed-primitives.md)**
-- **Next Item（下一条目）：[Item 63: Beware the performance of string concatenation（当心字符串连接引起的性能问题）](/Chapter-9/Chapter-9-Item-63-Beware-the-performance-of-string-concatenation.md)**
